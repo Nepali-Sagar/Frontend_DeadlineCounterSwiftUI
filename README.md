@@ -3,7 +3,7 @@
 A native iOS app built with **SwiftUI** that helps you track and manage deadlines. It connects to a REST API backend and works **offline** — changes sync automatically when your connection is restored.
 
 > This is the frontend client. The backend API lives in a separate repository.  
-> **Backend repo:** https://github.com/Nepali-Sagar/Backend_Deadline-Counter
+> **Backend repo:** https://github.com/Nepali-Sagar/Deadline-Counter
 
 ---
 
